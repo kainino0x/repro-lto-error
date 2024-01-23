@@ -1,0 +1,8 @@
+*.a
+*.o
+*.js
+*.wasm
+*.html
+*.cmake
+CMakeFiles
+CMakeCache.txt
